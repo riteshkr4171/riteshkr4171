@@ -6,7 +6,7 @@
 
 🚀 Creator of College Relationship Management System
 
-🌐 Portfolio: https://ritesh.gyangangaiti.com
+🌐 Live Project: https://ritesh.gyangangaiti.com
 
 ## About Me
 
